@@ -1,3 +1,5 @@
+## Hi, I'm Reza
+
 I mess with GPU scheduling and heterogeneous infra on Kubernetes.
 
 How GPUs get carved up, shared, and kept from stepping on each other across different hardware, vendors, and clusters. And what explodes when that goes wrong.
