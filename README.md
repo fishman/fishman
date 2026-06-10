@@ -21,6 +21,7 @@ Three decades across the hardware/software boundary. Reverse-engineering codecs,
 - AI, Edge, and Storage Walk Into a Mongolian Mine - [YouTube](https://www.youtube.com/watch?v=t7alW_Hjfj8)
 
 **Connect:**
+
 [linkedin.com/in/rezajelveh](https://linkedin.com/in/rezajelveh)
 
 [project-hami.io](https://project-hami.io)
