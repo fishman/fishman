@@ -22,5 +22,7 @@ Three decades across the hardware/software boundary. Reverse-engineering codecs,
 
 **Connect:**
 [linkedin.com/in/rezajelveh](https://linkedin.com/in/rezajelveh)
+
 [project-hami.io](https://project-hami.io)
+
 [dynamia.ai](https://dynamia.ai)
