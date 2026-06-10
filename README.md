@@ -20,4 +20,4 @@ I’ve been on the HW/SW boundary for about 30 years. Reverse-engineering codecs
 ## Talks:
 - KubeCon EU 2026 - Keynote live demo [YouTube](https://www.youtube.com/watch?v=cTXlkhKXgyE)
 - AI Native Summit 2026 Amsterdam - “HAMi: Heterogeneous GPU Virtualization and Scheduling on Kubernetes”
-- “AI, Edge, and Storage Walk Into a Mongolian Mine” [YouTube](https://www.youtube.com/watch?v=t7alW_Hjfj8)
+- KubeCon EU 2024 - “AI, Edge, and Storage Walk Into a Mongolian Mine” [YouTube](https://www.youtube.com/watch?v=t7alW_Hjfj8)
