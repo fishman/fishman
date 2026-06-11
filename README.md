@@ -4,7 +4,7 @@ I mess with GPU scheduling and heterogeneous infra on Kubernetes.
 
 How GPUs get carved up, shared, and kept from stepping on each other across different hardware, vendors, and clusters. And what explodes when that goes wrong.
 
-I’ve got a thing for edge compute, bare-metal infra, and accelerator silicon. If there’s a conference with hardware in Asia, I’m probably there - Computex, Semicon Taiwan, or WeSemiBay in Shenzhen.
+I’ve got a thing for edge compute, bare-metal infra, and accelerator silicon. If there’s a conference with hardware in Asia, I’m probably there - Computex, Semicon Taiwan, SuperAI, or WeSemiBay in Shenzhen.
 
 Right now I’m at [Dynamia](https://dynamia.ai) working on [HAMi](https://github.com/Project-HAMi/HAMi), a CNCF sandbox project that does GPU virtualization and sharing on Kubernetes. One Helm chart, 11+ GPU vendors, zero vendor lock-in It’s the only CNCF-backed stack that handles heterogeneous compute.
 
